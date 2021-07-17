@@ -1,7 +1,7 @@
 /* 
 
 COVID-19 DATA EXPLORATION
-Skills used : Joins, Aggregate functions, Tables, Creating views
+Skills used : Joins, Aggregate functions, Tables
 
 */
 
